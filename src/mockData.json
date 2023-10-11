@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Learn JavaScript",
+    "isComplete": "true",
+    "favourite": "false",
+    "date": "10.10.2023, 17:09:50"
+  },
+  {
+    "id": 2,
+    "title": "Learn TypeScript",
+    "isComplete": "false",
+    "favourite": "true",
+    "date": "10.10.2023, 18:10:00"
+  },
+  {
+    "id": 3,
+    "title": "Learn React",
+    "isComplete": "false",
+    "favourite": "false",
+    "date": "12.10.2023, 11:03:20"
+  },
+  {
+    "id": 4,
+    "title": "Learn Redux",
+    "isComplete": "false",
+    "favourite": "false",
+    "date": "09.10.2023, 17:09:50"
+  }
+]
