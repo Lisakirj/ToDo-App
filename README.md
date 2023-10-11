@@ -14,3 +14,4 @@ Demo: <a href="https://todo-app-iota-woad.vercel.app/">https://todo-app-iota-woa
 8. React Hooks
 9. Redux Toolkit
 10. Redux Persist
+11. PropTypes
