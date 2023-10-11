@@ -28,8 +28,8 @@ const Main = () => {
   }, [filterOpt, todoData]);
 
   return (
-    <div className="container-fluid bg-secondary p-5 vh-100">
-      <div className="container bg-white rounded-3 p-5 d-flex flex-column align-items-center">
+    <div className="container-fluid bg-secondary p-5 ">
+      <div className="container bg-white rounded-3 p-5 mb-5 d-flex flex-column align-items-center ">
         <div className="row">
           <h2>Todo List</h2>
         </div>
