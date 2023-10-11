@@ -1,4 +1,5 @@
 ToDo App - Interview test task.
+
 🛠 Technologies:
 
 Vite
