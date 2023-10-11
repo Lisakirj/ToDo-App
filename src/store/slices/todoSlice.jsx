@@ -3,7 +3,6 @@ import mockData from "../../mockData.json";
 
 const initialState = {
   entities: mockData,
-  errors: null,
 };
 const todoSlice = createSlice({
   name: "todo",
@@ -98,5 +97,4 @@ export const setFavouriteStatus =
 
 //selectors
 export const getTodos = () => (state) => state.todo.entities;
-export const getErrors = () => (state) => state.todo.errors;
 export default todoReducer;
